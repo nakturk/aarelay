@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/status_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Durum Bekleniyor..."
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/btn_listener_permission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bildirim Dinleyici İznini Ver"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btn_notify_permission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bildirim Gönderme İzni Ver (A13+)"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Açıklama:\n1. 'Bildirim Dinleyici İznini Ver' butonuna tıklayıp listeden AA Relay uygulamasını aktif hale getirin.\n2. Outlook'tan gelen e-postalar otomatik olarak Android Auto uyumlu mesajlara dönüştürülecektir."
+        android:textSize="14sp"
+        android:alpha="0.7"/>
+
+</LinearLayout>
