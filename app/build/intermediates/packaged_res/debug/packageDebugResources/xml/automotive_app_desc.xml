@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<automotiveApp>
+    <!-- Android Auto'nun bu uygulamayı bir mesajlaşma ve şablon uygulaması olarak görmesi için gereken tanım -->
+    <uses name="notification" />
+    <uses name="template" />
+</automotiveApp>

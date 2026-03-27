@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.aarelay.app-debug-60:/xml_automotive_app_desc.xml.flat",
+        "source": "com.example.aarelay.app-main-62:/xml/automotive_app_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\hnakt\\.gradle\\daemon\\9.0.0\\com.example.aarelay.app-debug-60:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hnakt\\.gradle\\daemon\\9.0.0\\com.example.aarelay.app-main-62:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hnakt\\.gradle\\daemon\\9.0.0\\com.example.aarelay.app-debug-60:\\xml_automotive_app_desc.xml.flat",
+        "source": "C:\\Users\\hnakt\\.gradle\\daemon\\9.0.0\\com.example.aarelay.app-main-62:\\xml\\automotive_app_desc.xml"
+    }
+]
